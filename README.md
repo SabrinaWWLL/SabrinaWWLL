@@ -1,14 +1,10 @@
 ## Oi! Eu sou a Sabrina Santana ✨
 
-<div> 
-  <a href = "mailto:sabrina.ssllsantana@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sasagmail" height="30" width="30" /></a>&nbsp;
-  <a href= "https://www.linkedin.com/in/sabrina-santana-b2b5052b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sasalinkedin" height="30" width="30" /></a>&nbsp;
-</div>
 <img align='right' src='https://i.pinimg.com/originals/12/fd/c9/12fdc91aa277a13aa37340f4fcd53005.gif' width="150">
-
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
  
 Estudante de Ciência da Computação no 3º período apaixonada por tecnologia e arte. ⭐
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sasa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,3 +22,10 @@ Estudante de Ciência da Computação no 3º período apaixonada por tecnologia 
 <a href="https://github.com/SabrinaWWLL/SabrinaWWLL">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SabrinaWWLL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=6a91e4&icon_color=fce490&bg_color=11141e" alt="Sabrina's GitHub Stats" />
 </a>
+
+##
+
+<div> 
+  <a href = "mailto:sabrina.ssllsantana@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sasagmail" height="30" width="30" /></a>&nbsp;
+  <a href= "https://www.linkedin.com/in/sabrina-santana-b2b5052b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sasalinkedin" height="30" width="30" /></a>&nbsp;
+</div>
