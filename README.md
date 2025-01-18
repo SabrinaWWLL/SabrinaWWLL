@@ -15,9 +15,7 @@ Estudante de Ciência da Computação no 3º período apaixonada por tecnologia 
 
 ##
 
-<a href="https://github.com/SabrinaWWLL/SabrinaWWLL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaWWLL&hide=java,html,tex&title_color=ffffff&text_color=6a91e4&icon_color=fce490&bg_color=11141e&langs_count=3" />
-</a>
+
 
 <a href="https://github.com/SabrinaWWLL/SabrinaWWLL">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SabrinaWWLL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=6a91e4&icon_color=fce490&bg_color=11141e" alt="Sabrina's GitHub Stats" />
