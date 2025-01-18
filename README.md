@@ -26,6 +26,6 @@ Estudante de Ciência da Computação no 3º período apaixonada por tecnologia 
 ##
 
 <div> 
-  <a href = "mailto:sabrina.ssllsantana@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sasagmail" height="30" width="30" /></a>&nbsp;
-  <a href= "https://www.linkedin.com/in/sabrina-santana-b2b5052b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sasalinkedin" height="30" width="30" /></a>&nbsp;
+  <a href = "mailto:sabrina.ssllsantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/sabrina-santana-b2b5052b3" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
